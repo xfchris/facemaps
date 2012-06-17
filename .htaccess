@@ -1,0 +1,6 @@
+Options +Indexes
+RewriteEngine on
+
+RewriteBase /
+
+RewriteRule negocios_agregados.json negocios_agregados.php [L]
