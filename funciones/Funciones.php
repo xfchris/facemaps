@@ -6,16 +6,11 @@
 
 
 //ATRIBUTOS///////////////////////////////
-define("_serv", "mysql13.000webhost.com");
-define("_userDB", "a9028921_user");
-define("_passDB", "desarrollo2012");
-define("_db", "a9028921_web");
-/*
+
 define("_serv", "localhost");
 define("_userDB", "root");
 define("_passDB", "root");
 define("_db", "mashupcali");
-*/
 
 $json = new Services_JSON;
 
