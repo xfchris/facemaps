@@ -1,4 +1,8 @@
 <?php
+/**
+ * @author Christian Valencia Cuero <chvc2003@hotmail.com>
+ */
+
 require("funciones/Funciones.php");
 ?>
 <!DOCTYPE html>
